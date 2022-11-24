@@ -34,6 +34,7 @@ color: #e66e27;
 .kik{
     color: aliceblue;
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-evenly;
     
 }
@@ -43,4 +44,7 @@ nav ul li a {
     text-decoration: none;
     
     
+}
+div ul li{
+margin: .7rem;
 }
