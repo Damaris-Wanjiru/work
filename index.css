@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+.home{
+    color: aliceblue;
+    text-align: center;
+}
+#vin{
+    color: #e66e27;
+}
+img{
+    border-radius: 50%;
+    border: solid #e66e27;
+}
